@@ -25,8 +25,8 @@ Færsla;
 
 Skrá;
 	Skrá er file, file sem þú geymir t.d. eitthverjar upplýsingar af eitthverju sem er aðalega með texta eða eitthverja letur til þess að lesa.
- 
 
 
-
+Skráarsnið;
+	File format er byggt með því að segja hvernig þú vilt skoða með gegnum forrit. File formatið sést í gegnum upplýsingar á hvað þú vistar t.d. ritgerð um eitthvað, hvort þú endar á .asc , .doc ,  .docx ofl. Þessir enda stafir segja hvaða format skráin á að vera t.d. ef þú gerir ritgerð og save‘ar með .doc þá er það notað eða (display-ar) file-ið sem Microsoft Word. Þessar skrár eru ekki endilega bara um ritgerðir og svoleiðis, formattar eru líka t.d. myndir, hljóð, myndbönd, forrit og compressed files.
 
