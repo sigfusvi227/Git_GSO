@@ -20,4 +20,9 @@ Gagnasöfn eru notuð til þess að geyma eða safna gögnum eins og það er sa
 Gagnasafnskerfi;	
 	Það eru til margskonar gagnasafnskerfi sem um er hægt að ræða, hér eru nokkur sem ég get nefnt  MySQL, PostgreSQL, MongoDB, Microsoft SQL Server, Oracle, Sybase, SAP HANA, og IBM DB2. En það eru til líka öðruvísi gert gagnsafnskerfi til eins og ef við skildum vera að ræða um google, Google notar sína eigin hönnun og gerð af 		 DBMS (Database Manangement System) eða sem við köllum Gagnsafnskerfi sem heitir „BigTable“, þetta system er runnað gegnum með Google Cloud Platform.
 
+Færsla;
+	Það sem er hægt að skoða gögn undir færslum er t.d. eins og að skoða gegnum diska, sama hvort að það sé H:\ Drif eða S:\ Drif eins og fyrir okkur, gögn eru geymdar á þessum drifum og hægt er að fletta þau gegnum aðrar sameindar tölvur gegnum cloud (internetið) en það eru til líka drif sem einungis þú getur séð á sama tölvu og þaða drif er C:\ drifið, sem minnir mig stendur fyrir computer drifið (sem þíðir að þú getur ekki séð gögninn gegnum aðrar tölvur nema að vera á sama tölvu.)
+
+
+
 
