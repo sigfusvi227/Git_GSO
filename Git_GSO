@@ -17,3 +17,7 @@ Gagnasafn;
 Gagnasöfn eru notuð til þess að geyma eða safna gögnum eins og það er sagt. Þetta er kerfi sem er með margskonar upplýsingar um allt, t.d. er verið að ræða um forrit, myndir, myndbönd, ritgerð og margt fleira af upplýsingum.
 
 
+Gagnasafnskerfi;	
+	Það eru til margskonar gagnasafnskerfi sem um er hægt að ræða, hér eru nokkur sem ég get nefnt  MySQL, PostgreSQL, MongoDB, Microsoft SQL Server, Oracle, Sybase, SAP HANA, og IBM DB2. En það eru til líka öðruvísi gert gagnsafnskerfi til eins og ef við skildum vera að ræða um google, Google notar sína eigin hönnun og gerð af 		 DBMS (Database Manangement System) eða sem við köllum Gagnsafnskerfi sem heitir „BigTable“, þetta system er runnað gegnum með Google Cloud Platform.
+
+
